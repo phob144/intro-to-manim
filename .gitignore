@@ -1,0 +1,5 @@
+media/
+output_assets/
+slides/
+__pycache__/
+output.html
